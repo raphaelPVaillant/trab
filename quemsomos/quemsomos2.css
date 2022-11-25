@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(80deg, #5b09ff, #073cad);
+}
+
+.qs{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.p1{
+    flex-direction: column;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   margin-left: 150px;
+   margin-right: 150px;
+    font-size: 20px;
+}
